@@ -1,0 +1,26 @@
+header
+{
+	.merienda-<uniquifier> {
+  font-family: "Merienda", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  background-color: palegoldenrod;
+}
+h2 {
+ font-family: "Merienda", cursive;
+  }
+
+h1
+{
+	font-family: "Merienda", cursive;
+	color: floralwhite;
+	background: #8f0a0a;
+}
+
+h2
+{
+	font-family: "Merienda", cursive;
+	color: whitesmoke;
+	color: #955b5b;
+}
